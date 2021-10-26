@@ -21,7 +21,7 @@ sections:
         label: Learn More
         url: /
         style: secondary
-      - label: Learn more
+      - label: Submit
         altText: Learn more
         url: /
         showIcon: false
